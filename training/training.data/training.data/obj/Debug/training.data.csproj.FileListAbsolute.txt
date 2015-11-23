@@ -1,0 +1,10 @@
+C:\Microsoft\Workspace\training\training.data\training.data\bin\Debug\training.data.dll.config
+C:\Microsoft\Workspace\training\training.data\training.data\bin\Debug\training.data.dll
+C:\Microsoft\Workspace\training\training.data\training.data\bin\Debug\training.data.pdb
+C:\Microsoft\Workspace\training\training.data\training.data\bin\Debug\EntityFramework.dll
+C:\Microsoft\Workspace\training\training.data\training.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Microsoft\Workspace\training\training.data\training.data\bin\Debug\EntityFramework.xml
+C:\Microsoft\Workspace\training\training.data\training.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Microsoft\Workspace\training\training.data\training.data\obj\Debug\training.data.csprojResolveAssemblyReference.cache
+C:\Microsoft\Workspace\training\training.data\training.data\obj\Debug\training.data.dll
+C:\Microsoft\Workspace\training\training.data\training.data\obj\Debug\training.data.pdb
